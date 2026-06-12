@@ -37,7 +37,7 @@ Identified high-risk customer segments for a telecoms subscription business usin
 
 `SQL` `Python` `Tableau`
 
-[View project →](https://github.com/mayasyed/Portfolio/tree/main/customer-churn) · [Live Tableau dashboard →](https://public.tableau.com/app/profile/mahanoor.shams/viz/TelcoCustomerChurn_17673780438080/CustomerChurnOverview)
+[View project →](https://github.com/mayasyed/customer-churn-analysis) · [Live Tableau dashboard →](https://public.tableau.com/app/profile/mahanoor.shams/viz/TelcoCustomerChurn_17673780438080/CustomerChurnOverview)
 
 ---
 
@@ -47,7 +47,7 @@ Validated H1 2024 commercial revenue across 7 EMEA markets and 10 media agency p
 
 `Excel` `VLOOKUP` `Variance analysis`
 
-[View project →](https://github.com/mayasyed/Portfolio/tree/main/emea-commercial-reconciliation) · [View in Google Sheets →](https://docs.google.com/spreadsheets/d/1Ie-t5AwX5xTFWl-XOcmikoPioKNgRpgBFY_QCLhQAY0/edit?usp=sharing)
+[View project →](https://github.com/mayasyed/emea-revenue-reconciliation) · [View in Google Sheets →](https://docs.google.com/spreadsheets/d/1Ie-t5AwX5xTFWl-XOcmikoPioKNgRpgBFY_QCLhQAY0/edit?usp=sharing)
 
 ---
 
@@ -57,7 +57,7 @@ Power BI dashboard exploring how daily movement affects sleep quality, built on 
 
 `Power BI` `DAX` `Power Query`
 
-[View project →](https://github.com/mayasyed/Gym-Tracker)
+[View project →](https://github.com/mayasyed/fitness-tracker-dashboard)
 
 ---
 
@@ -68,6 +68,12 @@ A data-driven hunt for my first anime: cleaned and analysed 12,000+ titles in Py
 `Python` `pandas` `matplotlib` `seaborn`
 
 [View project →](https://github.com/mayasyed/Exploring-Anime-Trends-with-Data)
+
+---
+
+## 🤖 How I work with AI
+
+I use Claude day to day as a pair-analyst — debugging DAX, pressure-testing cleaning logic, and speeding up documentation. Projects where it played a meaningful role say so explicitly in their READMEs ([NHS RTT](https://github.com/mayasyed/nhs-rtt-waiting-times), [EMEA reconciliation](https://github.com/mayasyed/emea-revenue-reconciliation)). The analysis and the judgement are always mine.
 
 ---
 
