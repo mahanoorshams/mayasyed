@@ -2,7 +2,7 @@
 
 Data analyst with 3 years of experience turning messy operational data into decisions people actually act on. I've worked across aviation catering, finance, and operations — building Power BI dashboards, writing SQL pipelines, and translating numbers into stories for non-technical stakeholders.
 
-Currently open to **Product Analyst**, **People Data Analyst**, and **BI Analyst** roles in the UK.
+Currently open to **BI Analyst** and **Product Analyst** roles in the UK.
 
 ---
 
