@@ -31,6 +31,16 @@ Interactive Power BI dashboard tracking NHS Referral to Treatment waiting times 
 
 ---
 
+### 🛠 E-commerce Analytics Engineering (dbt + BigQuery)
+
+Modelled 181k e-commerce order items into a tested star schema with dbt Core on BigQuery, then built an analytics layer that answers real commercial questions — not just "the pipeline runs". Found gross margin swings from 62% (Blazers & Jackets) to 38% (Clothing Sets, also the highest-return category), an overall repeat-purchase rate of 33.5%, and that Organic is the strongest channel by revenue per customer.
+
+`dbt Core` `BigQuery` `SQL` `Dimensional modelling` `Python`
+
+[View project →](https://github.com/mayasyed/dbt-ecommerce-portfolio)
+
+---
+
 ### 🔄 Customer Churn Analysis
 
 Identified high-risk customer segments for a telecoms subscription business using SQL cohort segmentation, Python EDA, and an interactive Tableau dashboard. Key finding: month-to-month fibre customers with no add-on services churned hardest, driving a disproportionate share of revenue lost in the first 90 days.
