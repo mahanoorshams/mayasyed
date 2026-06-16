@@ -43,7 +43,7 @@ Modelled 181k e-commerce order items into a tested star schema with dbt Core on 
 
 ### 🔄 Customer Churn Analysis
 
-Identified high-risk customer segments for a telecoms subscription business using SQL cohort segmentation, Python EDA, and an interactive Tableau dashboard. Key finding: month-to-month fibre customers with no add-on services churned hardest, driving a disproportionate share of revenue lost in the first 90 days.
+Identified high-risk customer segments for a telecoms subscription business using SQL segmentation, Python EDA, and an interactive Tableau dashboard. Key findings: month-to-month contracts churned at 42.7% (vs 2.8% on two-year plans) and first-year customers at 47.7% — with churned customers carrying 30.5% of monthly recurring revenue.
 
 `SQL` `Python` `Tableau`
 
@@ -63,7 +63,7 @@ Validated H1 2024 commercial revenue across 7 EMEA markets and 10 media agency p
 
 ### 🏋️ Fitness Tracker Dashboard
 
-Power BI dashboard exploring how daily movement affects sleep quality, built on 30 days of Fitbit data across 33 users. Custom DAX measures, multi-source CSV merging, and a smart alert system for below-average activity trends.
+Power BI dashboard exploring how daily movement affects sleep quality, built on 30 days of Fitbit data across 33 users. Custom DAX measures, multi-source CSV merging, and a DAX flag for days below a user's average activity.
 
 `Power BI` `DAX` `Power Query`
 
