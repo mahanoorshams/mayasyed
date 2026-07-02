@@ -40,6 +40,14 @@ Interactive Power BI dashboard tracking NHS Referral to Treatment waiting times 
 
 [View project →](https://github.com/mayasyed/dbt-ecommerce-portfolio)
 
+### [Bank of England Macroeconomic Dashboard](https://github.com/mahanoorshams/boe-financial-kpi-dashboard)
+
+A two-page Power BI dashboard tracking UK macro conditions — mortgage lending, consumer credit, and money supply — from public Bank of England data. Built in PBIP format (TMDL semantic model, PBIR JSON visuals) with DAX measures for KPIs, year-on-year growth, and a normalised growth index. Surfaces the Bank Rate at 3.75%, £1,713bn of outstanding UK mortgages, and the COVID surge in M4 broad money against contracting consumer credit.
+
+`Power BI` `DAX` `PBIP` `Power Query` `Macro / finance data`
+
+[View project →](https://github.com/mahanoorshams/boe-financial-kpi-dashboard)
+
 ---
 
 [LinkedIn](https://www.linkedin.com/in/mahanoor-shams) · [Email](mailto:mahanoorshams@outlook.com)
